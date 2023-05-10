@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683736297 source:c:\study\os project\os project\main.cpp
+	<cstring>
+	<vector>
+	<iostream>
+	<iomanip>
+	<queue>
+	<fstream>
+
